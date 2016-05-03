@@ -598,10 +598,6 @@ a {
     padding: 10px 40px;
   }
 
-  #code-tag-section {
-    margin: 0 40px;
-  }
-
   .code-tag {
     margin: 0 5px 5px 0;
   }
@@ -616,7 +612,7 @@ a {
     padding-bottom: 10px;
   }
 
-  #code-tag-section {
+  .code-tag-section {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -626,6 +622,7 @@ a {
     -webkit-justify-content: center;
         -ms-flex-pack: center;
             justify-content: center;
+    margin: 0 40px;
   }
 
   .contact-button-icon {
