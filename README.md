@@ -1,6 +1,6 @@
 # Files of my portfolio website
 
-[www.danielgrossstueck.de](https://www.danielgrossstueck.de)
+[www.danielgrossstueck.de](http://www.danielgrossstueck.de)
 
 Thanks to the authors of the jquery plugins i use on my site
 
