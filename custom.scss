@@ -287,7 +287,7 @@ a {
   padding-right: 70px;
   width: 600px;
 }
-#code-tag-section {}
+
 .code-tag {
   background-color: $primary-color-section1;
   border-radius: 5px;
@@ -634,9 +634,6 @@ a {
     margin: 0 auto;
     padding: 10px 40px;
   }
-  #code-tag-section {
-    margin: 0 40px;
-  }
   .code-tag {
     margin: 0 5px 5px 0;
   }
@@ -648,10 +645,11 @@ a {
     padding-top: 0;
     padding-bottom: 10px;
   }
-  #code-tag-section {
+  .code-tag-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 0 40px;
   }
   .contact-button-icon {
     height: 4em;
